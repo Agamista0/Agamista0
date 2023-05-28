@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Mohamed Agami </h1>
-<h3 align="center">student at The Egyptian E-Learning university</h3>
+<h3 align="center">I'm a student at The Egyptian E-Learning university</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
